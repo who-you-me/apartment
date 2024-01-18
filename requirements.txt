@@ -1,0 +1,10 @@
+click
+
+selenium
+webdriver-manager
+
+numpy
+pandas
+statsmodels
+matplotlib
+folium

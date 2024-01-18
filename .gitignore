@@ -1,0 +1,13 @@
+.DS_Store
+
+.idea/
+build/
+
+raw_data/*
+!/raw_data/.gitkeep
+
+*.csv
+*.pkl
+*.html
+*.zip
+*.geojson
